@@ -50,13 +50,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="160" src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1920"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/Fawkes-creator/Fawkes-creator/output/snake.svg" alt="Snake animation" />
 
 ###
