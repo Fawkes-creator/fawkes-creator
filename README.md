@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-end.<br><br>Estudante dedicado e apaixonado pela tecnologia, atualmente finalizando meus estudos em SQL e MySQL com o objetivo de especializar-me em desenvolvimento backend.<br><br>Estou constantemente em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Tenho experiência prática em projetos reais e atuo como freelancer, colaborando com empresas da área, principalmente no desenvolvimento e otimização de websites.</p>
+<p align="left">Desenvolvedor Full Stack Jr.<br><br>Estudante dedicado e apaixonado pela tecnologia, atualmente finalizando meus estudos e projetos em SQL e MySQL e iniciando estudos na carreira Mobile.<br><br>Estou constantemente em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Tenho experiência prática em projetos reais e atuo como freelancer, colaborando com empresas da área, principalmente no desenvolvimento e otimização de websites.</p>
 
 ###
 
